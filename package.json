@@ -1,0 +1,11 @@
+{
+  "name": "crewsync-nodejs",
+  "version": "1.0.0",
+  "description": "A node js server for employee login and management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adith Vinod",
+  "license": "ISC"
+}
